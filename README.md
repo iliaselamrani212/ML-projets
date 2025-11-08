@@ -8,4 +8,13 @@ I am a student in AI at ENIAD, passionate about data-driven solutions and applie
 I enjoy experimenting with datasets, building models, and sharing results in Python.
 
 ## Repository Structure
-- Each project has its own folder:
+- Each project has its own folder
+-  Each project folder contains:
+- `notebook.ipynb` – the Jupyter notebook
+- `data/` – datasets used
+- `README.md` – project-specific description
+
+## Contact
+- LinkedIn: [https://www.linkedin.com/in/iliaselamrani](https://www.linkedin.com/in/iliaselamrani)
+- GitHub: [https://github.com/tonusername](https://github.com/iliaselamrani212)
+
